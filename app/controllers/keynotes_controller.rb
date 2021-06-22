@@ -1,0 +1,2 @@
+class KeynotesController < ApplicationController
+end

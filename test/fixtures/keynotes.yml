@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  speaker: MyString
+  description: MyText
+  date_time: MyString
+
+two:
+  title: MyString
+  speaker: MyString
+  description: MyText
+  date_time: MyString

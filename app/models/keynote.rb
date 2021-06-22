@@ -1,0 +1,2 @@
+class Keynote < ApplicationRecord
+end
